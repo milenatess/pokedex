@@ -73,25 +73,25 @@
 }
 
 .tipo-fogo {
-    background-color:rgb(218, 103, 26);
+    background-color: #ff9193;
 }
 
 .tipo-eletrico {
-    background-color: rgb(15, 21, 92);
+    background-color: #fcc719;
 }
 
 .tipo-agua {
-    background-color: rgb(27, 105, 105);
+    background-color: #76befe;
 }
 
 .tipo-grama {
-    background-color:rgb(18, 114, 76);
+    background-color: #49d0b9;
 }
 
 .tipo-trevas {
-    background-color:rgb(59, 19, 97)
+    background-color: #ba68c8;
 }
 
 .tipo-dragao {
-    background-color: rgb(80, 10, 10);
+    background-color: #c29791;
 }
